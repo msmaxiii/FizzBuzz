@@ -17,4 +17,4 @@ for(let i = 0; i < array.length; i++){
     }
 }
 }
-console.log(value)
+console.log(value);
