@@ -33,5 +33,9 @@ function isPalindrome(word){
     return true
 }
 
-
+isPalindrome("a")
+isPalindrome("noon")
+isPalindrome("hello")
+isPalindrome("Racecar")
+isPalindrome("racecar")
 
